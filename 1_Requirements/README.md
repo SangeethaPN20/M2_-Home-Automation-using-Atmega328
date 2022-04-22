@@ -16,6 +16,18 @@ Home Automation is a term used to describe the working together of all household
 * Led
 * Resistor
 * Capacitor
+# Advantges
+* Keeps Your Home Secure. 
+* One of the greatest benefits of a home automation system is automated door locks.
+* Saves Time.
+* Saves Money and Energy
+* Ensures Your Children's Safety
+* Gives You Complete Peace of Mind.
+
+# Disadvantages
+* Security Issues: As with all computing devices, security will become a greater issue as more people use smart home devices.
+* Cost: Extremely expensive
+* Greater acceptance
 # Applications
 * Lighting control.
 * HVAC.
